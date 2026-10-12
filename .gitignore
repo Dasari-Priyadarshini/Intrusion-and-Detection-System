@@ -1,0 +1,8 @@
+.venv/
+Dataset/
+processed_data/*.csv
+split_data/*.npz
+smote_data/
+zat_results/*.keras
+__pycache__/
+*.pyc
